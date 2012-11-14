@@ -1,0 +1,3 @@
+[submodule ".MacBuild"]
+	path = .MacBuild
+	url = https://github.com/vanger-cat/mbs-private.git
